@@ -1,0 +1,26 @@
+<!-- 
+cmsmasters_package: Startup Company
+cmsmasters_version: 1.0.1
+-->
+<wpml-config>
+    <admin-texts>
+        <key name="cmsmasters_options_startup-company_header">
+            <key name="startup-company_header_top_line_short_info" />
+            <key name="startup-company_header_top_line_donations_but_text" />
+            <key name="startup-company_header_donations_but_text" />
+            <key name="startup-company_header_add_cont_cust_html" />
+        </key>
+		<key name="cmsmasters_options_startup-company_footer">
+            <key name="startup-company_footer_html" />
+            <key name="startup-company_footer_copyright" />
+        </key>
+		<key name="cmsmasters_options_startup-company_single_project">
+            <key name="startup-company_portfolio_project_details_title" />
+        </key>
+		<key name="cmsmasters_options_startup-company_single_profile">
+            <key name="startup-company_profile_post_details_title" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
